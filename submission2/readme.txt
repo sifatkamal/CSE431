@@ -8,7 +8,7 @@ Paper title:
 Hierarchical Attention Based Recurrent Neural Network Framework For Mobile MOBA Game Recommender Systems
 
 Link to the paper:
-[https://ieeexplore.ieee.org/document/8672365)](https://ieeexplore.ieee.org/document/8672365)
+https://ieeexplore.ieee.org/document/8672365
 
 Group Number:
 25
